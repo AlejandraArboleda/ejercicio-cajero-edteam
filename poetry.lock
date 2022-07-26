@@ -1,0 +1,17 @@
+[[package]]
+name = "login"
+version = "0.0.6"
+description = "Module for common login service"
+category = "main"
+optional = false
+python-versions = ">=3"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "d357f3397d55ec97fb5ffc88e54c81a58dd7a0a8dbb4491dd639dc646d200c6c"
+
+[metadata.files]
+login = [
+    {file = "login-0.0.6.tar.gz", hash = "sha256:d3edf1e1a9ac26f43c4db7e2beb7649e411087f3a52f99a937740ba57f3d0e81"},
+]

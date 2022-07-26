@@ -1,0 +1,20 @@
+{
+  "files": {
+    "loguin.py": [
+      {
+        "id": "4c83aa08-1c3b-4b06-8ca8-64e4dd0eb26a",
+        "line": 8,
+        "version": 224,
+        "index": 144
+      }
+    ],
+    "main.py": [
+      {
+        "id": "1387ca06-2af2-484b-bd40-89501b801eae",
+        "line": 2,
+        "version": 1281,
+        "index": 187
+      }
+    ]
+  }
+}
